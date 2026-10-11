@@ -35,8 +35,8 @@ You can switch between two AI backends, **OpenAI** (cloud) and **Ollama** (local
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/chipchap.git
-cd chipchap
+git clone https://github.com/Ivanova-I/Chipchap.git
+cd Chipchap
 ```
 
 ### 2. Create and activate a virtual environment
