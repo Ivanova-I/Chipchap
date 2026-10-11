@@ -1,0 +1,4 @@
+customtkinter
+openai
+ollama
+python-dotenv

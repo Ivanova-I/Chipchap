@@ -1,0 +1,15 @@
+# Secrets – never commit your API key
+.env
+
+# Virtual environments
+agent-env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
